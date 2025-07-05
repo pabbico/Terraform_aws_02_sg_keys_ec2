@@ -19,7 +19,7 @@ This project uses Terraform to provision the following infrastructure on AWS:
 ## Project Structure
 
 ```
-
+"""
 Terraform_aws_02_sg_keys_ec2 % tree
 .
 ├── ec2.tf
@@ -38,7 +38,7 @@ Terraform_aws_02_sg_keys_ec2 % tree
 ├── variable.tf
 └── vpc.tf
 └── README.md
-
+"""
 ````
 
 ---
