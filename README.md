@@ -39,6 +39,7 @@ Terraform_aws_02_sg_keys_ec2 % tree
 └── README.md
 
 ````
+![terraform2](https://github.com/user-attachments/assets/9398f39b-02bc-48be-ac4f-5a894608143c)
 
 ---
 
